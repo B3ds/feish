@@ -38,7 +38,7 @@ class ApisController extends AppController {
  *
  * @var array
  */
-    var $webroot='http://localhost/';
+    var $webroot='http://www.b3-ds.com/feish';
     
     public function beforeFilter(){
 
